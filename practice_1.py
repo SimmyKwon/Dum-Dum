@@ -7,6 +7,6 @@ print("Hello World!")
 
 import numpy as np
 
-np_array_1 = [1,2,3]
+np_array_1 = np.array([1,2,3])
 
 print(2*np_array_1)
