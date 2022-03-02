@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 
-for i in range(3,7):
+for i in range(3,9):
     print("There are", i, "chestnuts at your place!")
 print("Hello World!")
 
